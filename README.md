@@ -7,4 +7,4 @@ Submission for gitcoinco bounty
 
 ## Resume
 
-![Resume](https://drive.google.com/file/d/1E3pD4qSLQMztJ2lPtPqG3VDimUWelA0U/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1E3pD4qSLQMztJ2lPtPqG3VDimUWelA0U/view?usp=sharing)
